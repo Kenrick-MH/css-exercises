@@ -1,0 +1,23 @@
+.odd {
+    color: black;
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.odd.third{
+    font-size: 32px;
+}
+
+#second{
+    color:hwb(240 0% 0%);
+    font-size: 32px;
+}
+
+#fourth{
+    color:#000000;
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
